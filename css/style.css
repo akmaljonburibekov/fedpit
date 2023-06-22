@@ -1,0 +1,10 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 2rem;
+}
+
+.sitenav-list {
+    display: flex;
+    gap: 3.2rem;
+}
